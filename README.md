@@ -2,9 +2,9 @@
 
 A jQuery plugin that pulls in images posted in a Facebook album during the last X days. Ideal for importing pictures of a restaurant's daily/weekly specials, or for a photoblog-type site. 
 
-##### **_Only works with public albums at the moment_**
+#### **_Only works with public albums at the moment_**
 
-### Instructions
+## Instructions
 
 * Add daily-special.js and daily-special.css to your webpage.
 * Add a div with the class "daily-special" to your page. Give the div two attributes: "data-album" and "data-days".

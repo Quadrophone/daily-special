@@ -16,5 +16,5 @@ Here's an example div:
 
 `<div class="daily-special" data-album="594449033946801" data-days="3"></div>`
 
-The plugin will automatically import photos from the previous X days and place them into cards on your page. 
+The plugin will automatically import photos (and their captions) from the previous X days and place them into cards on your page. 
 

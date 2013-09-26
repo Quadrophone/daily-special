@@ -2,7 +2,7 @@
 
 A jQuery plugin that pulls in images posted in a Facebook album during the last X days. Ideal for importing pictures of a restaurant's daily/weekly specials, or for a photoblog-type site. 
 
-* #### Only works with public albums at the moment *
+#### **_Only works with public albums at the moment_**
 
 ### Instructions
 

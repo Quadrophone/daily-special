@@ -14,7 +14,7 @@ https://www.facebook.com/media/set/?set=a.594449033946801.1073741827.44733395865
 
 Here's an example div:
 
-'<div class="daily-special" data-album="594449033946801" data-days="3"></div>'
+`<div class="daily-special" data-album="594449033946801" data-days="3"></div>`
 
 The plugin will automatically import photos from the previous X days and place them into cards. 
 

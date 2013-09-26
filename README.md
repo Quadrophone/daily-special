@@ -10,7 +10,7 @@ A jQuery plugin that pulls in images posted in a Facebook album during the last 
 
 `https://www.facebook.com/media/set/?set=a.594449033946801.1073741827.447333958658310&type=3`
 
-* In the "data-days" attribute, set the number of days that you want the plugin to look back. If you want to post the past week's photos, for example, set "data-days" to 7.
+* In the "data-days" attribute, set the number of days that you want the plugin to look back. If you want to get all photos from the past week, for example, set "data-days" to 7.
 
 Here's an example div:
 

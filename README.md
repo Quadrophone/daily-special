@@ -4,7 +4,7 @@ A jQuery plugin that pulls in images posted in a Facebook album during the last 
 
 ### Instructions
 
-* Add daily-special.js and daily-special.css to your HTML.
+* Add daily-special.js and daily-special.css to your webpage.
 * Add a div with the class "daily-special" to your page. Give the div two attributes: "data-album" and "data-days".
 * For the "data-album" attribute, enter the album ID of the Facebook album you're using. To find an album's ID, go to the album, then look for the number in the URL right after "set=a.". For example, in this URL, the album ID would be 594449033946801:
 
@@ -16,5 +16,5 @@ Here's an example div:
 
 `<div class="daily-special" data-album="594449033946801" data-days="3"></div>`
 
-The plugin will automatically import photos from the previous X days and place them into cards. 
+The plugin will automatically import photos from the previous X days and place them into cards on your page. 
 
